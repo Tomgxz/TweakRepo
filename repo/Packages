@@ -4,7 +4,6 @@ Section: Themes
 Maintainer: Tom_gxz <tomgxz.dev@gmail.com>
 Architecture: iphoneos-arm
 Filename: debs/com.tomgxz.iconswhite/tomgxz_icon_white_0.1.deb
-MD5sum: ced0d3a70d452b19db8d6860b14ddf39
 Description: Icons theme for snowboard, in white.
 Name: Tom_gxz - Icons (White)
 Author: Tom_gxz <tomgxz.dev@gmail.com>
