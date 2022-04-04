@@ -10,3 +10,15 @@ Description: Icons theme for snowboard, in white.
 Name: Tom_gxz - Icons (White)
 Author: Tom_gxz <tomgxz.dev@gmail.com>
 Depiction: http://tomgxz.github.io/repo/debs/com.tomgxz.iconswhite/index.html
+
+Package: com.tomgxz.scbhack
+Version: 1.0
+Section: Themes
+Maintainer: Tom_gxz <tomgxz.dev@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/com.tomgxz.scbhack/com.k.simcity_1.33.1_iphoneos-arm.deb
+Size: 2388310
+MD5sum: c8bb3c74d3757bc03c7e7926fea84d4c
+Description: SimCity Buildit Hack
+Name: Tom_gxz - SimCity Buildit Hack
+Author: Tom_gxz <tomgxz.dev@gmail.com>
